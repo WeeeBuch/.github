@@ -5,7 +5,7 @@ We’re a small but passionate group of makers, tinkerers, and problem-solvers. 
 
 ## 🧰 What We Do
 
-We're constantly creating practical, lightweight tools and utilities.
+We're creating practical, lightweight tools and utilities.
 <br>
 <br>
 
