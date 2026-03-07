@@ -21,7 +21,6 @@ We're creating practical, lightweight tools and utilities.
 Here are just a few of the tools we're working on (or have released):
 <br>
 
-- KubeCrafter –
 - CtrlPay -  
 - _More coming soon..._
 <br>
